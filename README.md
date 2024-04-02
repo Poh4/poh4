@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Hello I'm Alfan Kasyfil Aziz </h1> <br>🧑‍🎓 : Undergraduate Student in Budi Luhur University<br>🧑‍💻 : Still Learn About Code and Interface Design<br>🎧 : Like Music and Play Music Instrument<br>☕ : Morining Coffee make me happy all days<br>
+<h1> Hello I'm Alfan Kasyfil Aziz </h1> <br>🧑‍🎓 : Undergraduate Student in Budi Luhur University<br>🧑‍💻 : Still Learn About Code and Interface Design<br>🎧 : Like Music and Play Music Instrument<br>☕ : Morning Coffee make me happy all days<br>
 
 
 ## 🌐 Socials:
